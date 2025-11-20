@@ -1,6 +1,8 @@
 ## Detecção de Fraude em Pedidos
 
-Este projeto utiliza aprendizado de máquina para identificar possíveis fraudes em pedidos online. Ele inclui:
+Este projeto utiliza aprendizado de máquina para identificar possíveis fraudes em pedidos online.
+
+Ele inclui:
 
  - Simulação de dados de pedidos
  - Pré-processamento com normalização e codificação
@@ -13,6 +15,7 @@ Este projeto utiliza aprendizado de máquina para identificar possíveis fraudes
  ## Técnicas e Algoritmos Utilizados
 
 Este projeto utiliza técnicas de Machine Learning supervisionado para classificar pedidos como legítimos ou fraudulentos. Abaixo estão os principais componentes:
+
  Tipo de Aprendizado:
 - Supervisionado: o modelo aprende com exemplos rotulados (fraude ou não fraude).
 
@@ -65,7 +68,7 @@ Acesse a documentação interativa em: http://127.0.0.1:8000/docs
 streamlit run app_streamlit.py
 ```
 
-## Autor
+## Autora
 Projeto desenvolvido por Thais Ines.
 Se quiser contribuir, fique à vontade para abrir issues ou pull requests!
 
