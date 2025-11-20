@@ -1,0 +1,23 @@
+# Ambiente virtual
+venv/
+.env
+
+# Arquivos de modelo
+*.pkl
+
+# Dados simulados
+data/
+*.csv
+
+# Cache e logs
+__pycache__/
+*.log
+
+# Streamlit
+.streamlit/
+
+# VSCode
+.vscode/
+
+# MacOS
+.DS_Store
