@@ -1,4 +1,10 @@
 ## Detecção de Fraude em Pedidos
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-%F0%9F%9A%80-green?logo=fastapi)
+![Streamlit](https://img.shields.io/badge/Streamlit-app-red?logo=streamlit)
+![Status](https://img.shields.io/badge/Status-Em%20desenvolvimento-yellow)
+![License](https://img.shields.io/badge/License-MIT-blue)
+
 
 Este projeto utiliza aprendizado de máquina para identificar possíveis fraudes em pedidos online.
 
